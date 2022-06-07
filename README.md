@@ -1,2 +1,2 @@
 # jvega-personal-page
-Personal Page made with Hugo
+Source files for personal Page made with Hugo
