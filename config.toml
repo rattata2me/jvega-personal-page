@@ -37,7 +37,7 @@ enableEmoji = true
 		pre = ""
 		post = ""
 		name = "Posts"
-    	url = "../posts/"
+    	url = "./posts/"
 		title = ""
 	[[menu.main]]
 		weight = 2
@@ -45,7 +45,7 @@ enableEmoji = true
 		pre = ""
 		post = ""
 		name = "About"
-    	url = "../about/"
+    	url = "./about/"
 		title = ""
 
 [params]
