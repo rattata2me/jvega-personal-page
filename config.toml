@@ -193,7 +193,7 @@ enableEmoji = true
 		# Social config in home page
   	[params.social]
 	    GitHub = "rattata2me"
-	    Linkedin = ""
+	    Linkedin = "/jorge-vega-ba95a0241"
 	    Twitter = ""
 	    Instagram = ""
 	    Facebook = ""
