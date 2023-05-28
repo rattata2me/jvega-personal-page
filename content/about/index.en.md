@@ -24,7 +24,7 @@ math:
 
 
 ### About me
-I'm Jorge, an enthusiastic 21 year old mathematics and software engineering student from Madrid, Spain. Interested in science and techonology can't stop tinkering with little projects. 
+I'm Jorge, an enthusiastic 22 year old mathematics and software engineering student from Madrid, Spain. Interested in science and techonology can't stop tinkering with little projects. 
 
 ### Contact me
 
